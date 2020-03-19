@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[completed<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="85246" started-at="2020-03-19T11:57:53Z" finished-at="2020-03-19T11:59:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="85246" started-at="2020-03-19T11:57:53Z" finished-at="2020-03-19T11:59:18Z">
+      <class name="clearwater.Assetname">
+        <test-method status="PASS" signature="Openbrowser()[pri:0, instance:clearwater.Assetname@75c072cb]" name="Openbrowser" duration-ms="18875" started-at="2020-03-19T17:27:53Z" finished-at="2020-03-19T17:28:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Openbrowser -->
+        <test-method status="PASS" signature="AfterLogin()[pri:0, instance:clearwater.Assetname@75c072cb]" name="AfterLogin" duration-ms="12597" started-at="2020-03-19T17:28:12Z" finished-at="2020-03-19T17:28:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterLogin -->
+        <test-method status="PASS" signature="Asset()[pri:0, instance:clearwater.Assetname@75c072cb]" name="Asset" duration-ms="25370" started-at="2020-03-19T17:28:24Z" finished-at="2020-03-19T17:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Asset -->
+        <test-method status="PASS" signature="AssetInventoryForm()[pri:0, instance:clearwater.Assetname@75c072cb]" name="AssetInventoryForm" duration-ms="26704" started-at="2020-03-19T17:28:50Z" finished-at="2020-03-19T17:29:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[completed<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AssetInventoryForm -->
+        <test-method status="PASS" signature="testClosure()[pri:0, instance:clearwater.Assetname@75c072cb]" name="testClosure" is-config="true" duration-ms="1675" started-at="2020-03-19T17:29:16Z" finished-at="2020-03-19T17:29:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClosure -->
+      </class> <!-- clearwater.Assetname -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
